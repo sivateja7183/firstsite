@@ -43,10 +43,10 @@ width: 30%;
 margin: auto;
 
 }
-.bottom{
+.downcloud{
+  margin-right: 25%;
+  margin-bottom:20px;
   position:absolute;
-  bottom: 300px;
-  left:250px;
   }
   .top{
     position: absolute;
